@@ -29,7 +29,7 @@ We are a full team of UI/UX designers, front-end developers, mobile application 
 
 - **Timely Delivery:** ⏰ We value your time and strive to meet project deadlines without compromising on quality. Our efficient project management ensures smooth execution and timely delivery of your software solutions.
 
-## 🌐 Let's Get Started!
+## 🌐 Let's Keep in touch!
 
 We would love to discuss your project requirements and explore how we can help you achieve your goals. Contact us today to schedule a consultation and let's embark on a journey of digital transformation together.
 
@@ -38,3 +38,12 @@ We would love to discuss your project requirements and explore how we can help y
 - **📞Phone:** +251 98 485 0810 / +251 92 164 4607
 <h3 align ="center"> 🚀We look forward to collaborating with you and bringing your ideas to life! 🎉
 </h3>
+
+<h2 align="center">Let's Get Connect</h2>
+<p align="center">
+<a href="https://www.linkedin.com/company/devssinia" target="blank"><img align="center" src="src/linkedin.svg" alt="https://www.linkedin.com/company/devssinia" height="30" width="40" /></a>
+<a href="https://facebook.com/devssinia" target="blank"><img align="center" src="src/facebook.svg" alt="https://facebook.com/devssinia" height="30" width="40" /></a>
+<a href="https://instagram.com/devssinia?utm_source=qr&igshid=ngexmmi2ytkyzg%3d%3d" target="blank"><img align="center" src="src/instagram.svg" alt="https://instagram.com/devssinia?utm_source=qr&igshid=ngexmmi2ytkyzg%3d%3d" height="30" width="40" /></a>
+<a href="https://t.me/devssinia" target="blank"><img align="center" src="src/telegram.svg" alt="https://t.me/devssinia" height="30" width="40" /></a>
+</p>
+
