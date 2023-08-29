@@ -39,7 +39,7 @@ We would love to discuss your project requirements and explore how we can help y
 <h3 align ="center"> 🚀We look forward to collaborating with you and bringing your ideas to life! 🎉
 </h3>
 
-<h2 align="center">Let's Get Connect</h2>
+<h2 align="center">Let's Get Connected🎉</h2>
 <p align="center">
 <a href="https://www.linkedin.com/company/devssinia" target="_blank"><img align="center" src="src/linkedin.svg" alt="https://www.linkedin.com/company/devssinia" height="30" width="40" /></a>
 <a href="https://facebook.com/devssinia" target="_blank"><img align="center" src="src/facebook.svg" alt="https://facebook.com/devssinia" height="30" width="40" /></a>
