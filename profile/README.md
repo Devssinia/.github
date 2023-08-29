@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="src/bg.jpeg" alt="Devssinia Software" width="100%">
+  <img src="src/bg.jpeg" alt="Devssinia Software" width="100%" height="200">
   <h1>Welcome to Devssinia Software! 🌟</h1>
 </div>
 
